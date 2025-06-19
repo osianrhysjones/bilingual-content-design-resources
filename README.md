@@ -1,4 +1,4 @@
-# Bilingual design resources
+# Bilingual content design resources
 
 This is a list of resources collated by Osian Jones but highly indebted to the people who wrote some of the content below and others who shared good content.
 
