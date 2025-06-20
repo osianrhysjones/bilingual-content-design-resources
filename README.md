@@ -1,6 +1,6 @@
 # Bilingual content design resources
 
-This is a list of resources put together by Osian Jones. The content of the links have been written by others. I found out about them through people sharing their knowledge.
+This is a list of resources put together by [Osian Jones](http://osian.cymru). The content of the links have been written by others. I found out about them through people sharing their knowledge.
 
 ## Standards
 
