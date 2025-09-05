@@ -27,8 +27,14 @@ This is a list of resources put together by [Osian Jones](http://osian.cymru). T
 
 [CDPS' Trio writing pilot findings report](https://github.com/osianrhysjones/trio-writing-project-2024/blob/main/Trio%20Writing%20Pilot%20-%20Findings%20Report%20original.pdf)
 
-## Useful language resources
+## Language resources and style guides
 
 [How 'yes' and 'no' are call-and-response words in Welsh](https://www.jackpulmanslater.com/yes-no)
 
 [Cymraeg clir / Clear Welsh](https://www.bangor.ac.uk/canolfan-bedwyr/cymraegclir)
+
+[gov.wales style guide](https://www.llyw.cymru/canllaw-arddull-llywcymru)
+
+[Welsh language style guide (Yr Arddulliadur)](https://www.gov.wales/welsh-language-style-guide-yr-arddulliadur)
+
+
